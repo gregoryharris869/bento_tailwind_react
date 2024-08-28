@@ -1,5 +1,11 @@
+import Bento from "./components/Bento";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Bento />
+    </>
+  );
 }
 
 export default App;
